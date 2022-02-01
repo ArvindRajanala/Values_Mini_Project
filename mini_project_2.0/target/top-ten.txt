@@ -1,0 +1,11 @@
+VALUE,COUNT
+creativity,12
+optimism,12
+honesty,11
+calm,11
+determination,10
+flexibility,10
+simplicity,9
+friendship,9
+understanding,9
+curiosity,9
